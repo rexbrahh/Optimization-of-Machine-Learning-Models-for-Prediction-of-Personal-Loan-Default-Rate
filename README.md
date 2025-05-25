@@ -1,4 +1,6 @@
 # Optimization-of-Machine-Learning-Models-for-Prediction-of-Personal-Loan-Default-Rate
 
+Abstract: 
+
 The credit industry’s continuing expansion depends on the application of modern information technology to lower the risk of credit default. Traditional credit default prediction model research places too much emphasis on the model’s accuracy while ignoring some of its most important characteristics. Simultaneously, the parameter characteristics must be manually removed to reduce the model’s complexity, which lessens the high-dimensional correlation between the analyzed data and lowers the model’s prediction performance. Therefore, this paper constructs two personal credit loan default risk assessment models based on Random Forest (RF) and Light Gradient Boosting Machine (LightGBM), using Accuracy Rate (ACC) and Area Under the ROC Curve (AUC) as performance evaluation metrics. According to empirical studies, the most important determinants affecting loan defaults are ‘debt_loan_ratio’ and ‘known_outstanding_loan’. The AUC of the LightGBM model is above 86%, while RF’s AUC is just about 55%, indicating the better performance for the former one. Overall, these results shed light on the prediction of load default rate, which will be a guideline for further policy implementation.
 
